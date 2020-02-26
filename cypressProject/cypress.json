@@ -1,0 +1,15 @@
+{
+  "baseUrl": "https://betasso.foxstone.ch/en/signin",
+  "fixturesFolder" : "cypress/fixtures",
+  "integrationFolder" : "cypress/integration/tests",
+  "reporter":"mochawesome",
+  "reporterOptions": {
+    "reportDir": "cypress/reports",
+    "quiet": true,
+    "overwrite": false,
+    "html": false,
+    "json": true
+  },
+  "viewportWidth": 1440,
+  "viewportHeight": 900
+}

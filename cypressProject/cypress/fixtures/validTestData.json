@@ -1,0 +1,13 @@
+{
+  "validCredentials" : {
+    "firstName" : "Victoria",
+    "lastName" : "Domaskina",
+    "email" : "e7e65f9e-1d7c-49bb-93e5-8f681f11d43f@mailslurp.com"
+  },
+  "errorMessages" : {
+    "errorShortFirstName" : "First Name must be at least 2 characters long.",
+    "errorShortLastName" : "Last Name must be at least 2 characters long.",
+    "wrongEmail" : "'You need to enter a valid email.'",
+    "alreadyExistUser" : "This email address is already taken. Please try another one."
+  }
+}

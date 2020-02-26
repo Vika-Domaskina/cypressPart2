@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2fa22bf-b1a3-4d3e-b0bf-397a04101e09" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y4xyzsooiJVQ2k61kFTJPQ8CdJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/WebstormProjects/frontend-ui-tests" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/cypress" />
+      <recent name="$PROJECT_DIR$/cypress/integration" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2fa22bf-b1a3-4d3e-b0bf-397a04101e09" name="Default Changelist" comment="" />
+      <created>1582215925266</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582215925266</updated>
+      <workItem from="1582215927179" duration="2976000" />
+      <workItem from="1582276442311" duration="18587000" />
+      <workItem from="1582314903587" duration="8031000" />
+      <workItem from="1582397421439" duration="35421000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="588" y="214" width="800" height="677" key="#Node.js_and_NPM" timestamp="1582311873638">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="214" width="800" height="677" key="#Node.js_and_NPM/1920.0.1920.1080/67.27.1853.1053@67.27.1853.1053" timestamp="1582311873638" />
+    <state x="2613" y="357" width="591" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582218301787">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2613" y="357" width="591" height="390" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1582218301787" />
+    <state x="615" y="321" width="747" height="462" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1582310961915">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="615" y="321" width="747" height="462" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/1920.0.1920.1080/67.27.1853.1053@67.27.1853.1053" timestamp="1582310961915" />
+    <state x="1920" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1582576579194">
+      <screen x="67" y="27" width="3773" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/1920.0.1920.1080/67.27.1853.1053@67.27.1853.1053" timestamp="1582313212009" />
+    <state x="776" y="310" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1582315416450" />
+    <state x="1920" y="310" key="FileChooserDialogImpl/67.27.3773.1053@67.27.3773.1053" timestamp="1582576579194" />
+    <state x="1920" y="125" width="1920" height="855" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1582581190334">
+      <screen x="67" y="27" width="3773" height="1053" />
+    </state>
+    <state x="167" y="125" width="1653" height="855" key="com.intellij.history.integration.ui.views.FileHistoryDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1582473408759" />
+    <state x="1920" y="125" width="1920" height="855" key="com.intellij.history.integration.ui.views.FileHistoryDialog/67.27.3773.1053@67.27.3773.1053" timestamp="1582581190334" />
+    <state x="1137" y="205" width="705" height="867" key="find.popup" timestamp="1582733890779">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="641" y="263" width="704" height="578" key="find.popup/1920.0.1920.1080/67.27.1853.1053@67.27.1853.1053" timestamp="1582314667964" />
+    <state x="1137" y="205" width="705" height="867" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1582733890779" />
+    <state x="2245" y="205" width="1434" height="867" key="find.popup/67.27.3773.1053@67.27.3773.1053" timestamp="1582576752410" />
+    <state x="668" y="237" width="672" height="678" key="search.everywhere.popup" timestamp="1582406035785">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="623" y="237" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1582297388807" />
+    <state x="668" y="237" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1582406035785" />
+  </component>
+</project>
